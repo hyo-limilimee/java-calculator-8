@@ -10,8 +10,8 @@
 
 ## 구현할 기능 목록
 ### Application
-- [ ] 프로그램 시작점 (main 메서드)
-- [ ] CalculatorController를 생성하고 실행(run)한다.
+- [X] 프로그램 시작점 (main 메서드)
+- [X] CalculatorController를 생성하고 실행(run)한다.
 
 ### CalculatorController
 - [ ] InputView로부터 입력을 받는다.
