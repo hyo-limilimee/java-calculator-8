@@ -9,7 +9,11 @@
 ---
 
 ## 구현할 기능 목록
-### Main
+### Application
+- [ ] 프로그램 시작점 (main 메서드)
+- [ ] CalculatorController를 생성하고 실행(run)한다.
+- 
+### CalculatorController
 - [ ] InputView로부터 입력을 받는다.
 - [ ] Calculator에 입력을 전달해 결과를 받는다.
 - [ ] OutputView를 통해 결과를 출력한다.
@@ -41,15 +45,17 @@ java-calculator-8
 ┃ ┣ 📂 main
 ┃ ┃ ┗ 📂 java
 ┃ ┃ ┃ ┗ 📂 calculator
-┃ ┃ ┃ ┃ ┣ Application.java     
-┃ ┃ ┃ ┃ ┣ Calculator.java    
-┃ ┃ ┃ ┃ ┣ Tokenizer.java        
-┃ ┃ ┃ ┃ ┣ InputView.java        
-┃ ┃ ┃ ┃ ┗ OutputView.java       
+┃ ┃ ┃ ┃ ┣ Application.java          
+┃ ┃ ┃ ┃ ┣ CalculatorController.java 
+┃ ┃ ┃ ┃ ┣ Calculator.java          
+┃ ┃ ┃ ┃ ┣ Tokenizer.java       
+┃ ┃ ┃ ┃ ┣ InputView.java    
+┃ ┃ ┃ ┃ ┗ OutputView.java      
 ┃ ┗ 📂 test
 ┃ ┃ ┗ 📂 java
 ┃ ┃ ┃ ┗ 📂 calculator
 ┃ ┃ ┃ ┃ ┣ ApplicationTest.java  
+┃ ┃ ┃ ┃ ┣ CalculatorControllerTest.java // Controller 단위 테스트
 ┃ ┃ ┃ ┃ ┣ CalculatorTest.java  
 ┃ ┃ ┃ ┃ ┣ TokenizerTest.java    
 ┃ ┃ ┃ ┃ ┣ InputViewTest.java   
