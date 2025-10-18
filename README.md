@@ -14,12 +14,12 @@
 - [X] CalculatorController를 생성하고 실행(run)한다.
 
 ### CalculatorController
-- [ ] InputView로부터 입력을 받는다.
+- [X] InputView로부터 입력을 받는다.
 - [ ] Calculator에 입력을 전달해 결과를 받는다.
 - [ ] OutputView를 통해 결과를 출력한다.
 
 ### InputView
-- [ ] 사용자로부터 문자열을 입력받는다.
+- [X] 사용자로부터 문자열을 입력받는다.
 
 ### OutputView
 - [ ] 계산 결과를 출력한다.
