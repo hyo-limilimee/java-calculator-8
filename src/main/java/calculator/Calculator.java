@@ -11,7 +11,7 @@ public class Calculator {
         this.tokenizer = new Tokenizer(input);
     }
 
-    public int Calculate() {
+    public int calculate() {
         List<Integer> numbers = tokenizer.tokenize();
 
         int sum = 0;

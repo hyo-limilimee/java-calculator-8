@@ -16,14 +16,14 @@
 ### CalculatorController
 - [X] InputView로부터 입력을 받는다.
 - [X] Calculator에 입력을 전달해 결과를 받는다.
-- [ ] OutputView를 통해 결과를 출력한다.
+- [X] OutputView를 통해 결과를 출력한다.
 
 ### InputView
 - [X] 사용자로부터 문자열을 입력받는다.
 
 ### OutputView
-- [ ] 계산 결과를 출력한다.
-- [ ] 에러 메시지를 출력한다.
+- [X] 계산 결과를 출력한다.
+- [X] 에러 메시지를 출력한다.
 
 ### Calculator
 - [X] 문자열을 받아 Tokenizer를 통해 숫자 리스트로 변환한다.
