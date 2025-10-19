@@ -15,7 +15,7 @@
 
 ### CalculatorController
 - [X] InputView로부터 입력을 받는다.
-- [ ] Calculator에 입력을 전달해 결과를 받는다.
+- [X] Calculator에 입력을 전달해 결과를 받는다.
 - [ ] OutputView를 통해 결과를 출력한다.
 
 ### InputView
@@ -26,9 +26,9 @@
 - [ ] 에러 메시지를 출력한다.
 
 ### Calculator
-- [ ] 문자열을 받아 Tokenizer를 통해 숫자 리스트로 변환한다.
-- [ ] 변환된 숫자들을 모두 합산하여 반환한다.
-- [ ] 숫자가 음수이거나 잘못된 값일 경우 `IllegalArgumentException`을 발생시킨다.
+- [X] 문자열을 받아 Tokenizer를 통해 숫자 리스트로 변환한다.
+- [X] 변환된 숫자들을 모두 합산하여 반환한다.
+- [X] 숫자가 음수이거나 잘못된 값일 경우 `IllegalArgumentException`을 발생시킨다.
 
 ### Tokenizer
 - [ ] 입력 문자열을 분삭하여 숫자 토큰 리스트를 반환한다.
