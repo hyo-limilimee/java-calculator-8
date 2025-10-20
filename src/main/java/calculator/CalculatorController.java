@@ -1,10 +1,8 @@
 package calculator;
 
-import java.util.Scanner;
-
 public class CalculatorController {
     public void run() {
-        InputView inputView = new InputView(new Scanner(System.in));
+        InputView inputView = new InputView();
         String input = inputView.readInput();
 
         Calculator calculator = new Calculator(input);
