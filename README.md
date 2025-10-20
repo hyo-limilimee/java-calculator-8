@@ -55,7 +55,7 @@ java-calculator-8
 ┃ ┃ ┗ 📂 java
 ┃ ┃ ┃ ┗ 📂 calculator
 ┃ ┃ ┃ ┃ ┣ ApplicationTest.java  
-┃ ┃ ┃ ┃ ┣ CalculatorControllerTest.java // Controller 단위 테스트
+┃ ┃ ┃ ┃ ┣ CalculatorControllerTest.java
 ┃ ┃ ┃ ┃ ┣ CalculatorTest.java  
 ┃ ┃ ┃ ┃ ┣ TokenizerTest.java    
 ┃ ┃ ┃ ┃ ┣ InputViewTest.java   
